@@ -29,8 +29,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MangusDev&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangusDev&layout=compact&theme=radial"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MangusDev&show_icons=true&theme=radial" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MangusDev&layout=compact&theme=radial" alt="Linguagens mais usadas"/>
 </p>
 
 ---
